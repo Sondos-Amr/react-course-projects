@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+.env.*
+!.env.example
+01-pizza-menu/pizza-menu/.git-backup/
